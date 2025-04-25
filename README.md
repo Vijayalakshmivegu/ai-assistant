@@ -34,3 +34,4 @@ Real-time AI assistant combining Ollama LLMs with Tavily search for lightning-fa
 | `/api/chats` | GET | Lists all chats |
 
 ![Architecture Diagram](/static/architecture.png)
+![image](https://github.com/user-attachments/assets/98d8c67d-f380-43eb-aa97-fff79c8c6ff1)
